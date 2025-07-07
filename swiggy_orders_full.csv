@@ -1,0 +1,51 @@
+SNo,OID,CustomerID,Date,Location,Item,Item Type,Quantity,Unit Cost,Total Cost,Payment Type,Rating,Restaurant
+1,51765,ID3489,16-05-2021,Narsingi,Dal,Veg,9,180,1620,Google Pay,2,Adhya Grand
+2,5022,ID9856,06-12-2023,Narsingi,Dal,Veg,9,180,1620,Cash,3,New Punjabi Hotel
+3,10238,ID1228,19-12-2022,Kokapet,Mutton,Non Veg,9,350,3150,Google Pay,5,Tandoor Hut
+4,83157,ID6103,17-06-2023,Nanakramguda,Fish,Non Veg,2,320,640,Google Pay,4,New Punjabi Hotel
+5,37421,ID9981,22-11-2021,Kokapet,Chicken,Non Veg,10,250,2500,Google Pay,1,New Punjabi Hotel
+6,13941,ID1043,16-10-2022,Hitech City,Puri,Veg,5,60,300,Google Pay,4,Balaji Hotel
+7,11574,ID8238,17-05-2020,Madhapur,Mutton,Non Veg,9,350,3150,Phone Pay,5,Adhya Grand
+8,30969,ID9794,10-04-2021,Kokapet,Poha,Veg,1,70,70,Google Pay,1,Balaji Hotel
+9,78474,ID9207,21-05-2024,Narsingi,Poha,Veg,8,70,560,Phone Pay,4,Tandoor Hut
+10,98061,ID5346,01-04-2020,Narsingi,Chicken,Non Veg,3,250,750,Google Pay,5,New Punjabi Hotel
+11,19826,ID5750,26-11-2020,Hitech City,Poha,Veg,5,70,350,Cash,3,New Punjabi Hotel
+12,73748,ID3363,12-02-2022,Madhapur,Puri,Veg,6,60,360,Cash,2,Adhya Grand
+13,32627,ID5691,20-09-2022,Nanakramguda,Chicken,Non Veg,3,250,750,Phone Pay,3,Balaji Hotel
+14,43538,ID8155,27-12-2021,Nanakramguda,Chicken,Non Veg,8,250,2000,Cash,2,Balaji Hotel
+15,14745,ID8563,16-06-2020,Gachibowli,Dosa,Veg,10,60,600,Phone Pay,1,New Punjabi Hotel
+16,7674,ID6061,09-04-2020,Hitech City,Dal,Veg,9,180,1620,Phone Pay,1,Balaji Hotel
+17,86109,ID9680,05-12-2020,Gachibowli,Chapathi,Veg,5,15,75,Google Pay,2,Adhya Grand
+18,9196,ID6979,28-10-2022,Nanakramguda,Fish,Non Veg,1,320,320,Google Pay,3,Adhya Grand
+19,30695,ID8271,17-02-2021,Gachibowli,Dal,Veg,4,180,720,Google Pay,4,Kaveri Restaurant
+20,67744,ID6027,20-05-2024,Narsingi,Poha,Veg,1,70,70,Cash,4,Kaveri Restaurant
+21,65110,ID9828,19-04-2021,Kokapet,Chicken,Non Veg,7,250,1750,Phone Pay,5,Kaveri Restaurant
+22,56203,ID2318,20-07-2022,Madhapur,Dosa,Veg,2,60,120,Cash,3,Hotel CVR
+23,44790,ID7670,22-11-2020,Hitech City,Mutton,Non Veg,3,350,1050,Cash,1,Adhya Grand
+24,1650,ID6417,11-05-2022,Kokapet,Chapathi,Veg,10,15,150,Google Pay,2,Hotel CVR
+25,10925,ID4129,17-10-2024,Narsingi,Dosa,Veg,3,60,180,Google Pay,5,New Punjabi Hotel
+26,80204,ID1962,06-05-2022,Kokapet,Mutton,Non Veg,5,350,1750,Phone Pay,4,Kaveri Restaurant
+27,16387,ID8353,21-05-2021,Madhapur,Chapathi,Veg,3,15,45,Phone Pay,5,New Punjabi Hotel
+28,67208,ID9095,15-04-2022,Kokapet,Fish,Non Veg,10,320,3200,Phone Pay,5,Adhya Grand
+29,40366,ID5097,23-08-2024,Kokapet,Fish,Non Veg,9,320,2880,Google Pay,4,Kaveri Restaurant
+30,51575,ID1207,25-11-2021,Kokapet,Dosa,Veg,10,60,600,Google Pay,1,New Punjabi Hotel
+31,75877,ID6561,12-07-2022,Gachibowli,Chapathi,Veg,8,15,120,Cash,1,Adhya Grand
+32,38115,ID7152,20-05-2021,Kokapet,Dosa,Veg,3,60,180,Cash,4,Adhya Grand
+33,58880,ID3318,30-04-2022,Hitech City,Puri,Veg,8,60,480,Phone Pay,3,Tandoor Hut
+34,39936,ID8528,27-04-2024,Hitech City,Poha,Veg,7,70,490,Cash,5,Tandoor Hut
+35,60674,ID3105,10-07-2024,Madhapur,Puri,Veg,10,60,600,Phone Pay,1,Kaveri Restaurant
+36,23709,ID3248,27-02-2021,Gachibowli,Poha,Veg,6,70,420,Phone Pay,1,Tandoor Hut
+37,29627,ID6127,27-11-2021,Nanakramguda,Fish,Non Veg,7,320,2240,Google Pay,5,Adhya Grand
+38,50228,ID8978,04-04-2022,Madhapur,Poha,Veg,6,70,420,Cash,3,Kaveri Restaurant
+39,78778,ID7876,08-08-2020,Nanakramguda,Dosa,Veg,5,60,300,Cash,3,New Punjabi Hotel
+40,17576,ID6713,20-12-2024,Hitech City,Chicken,Non Veg,1,250,250,Cash,5,Tandoor Hut
+41,19593,ID6125,05-08-2023,Madhapur,Puri,Veg,6,60,360,Google Pay,3,Kaveri Restaurant
+42,41534,ID6947,21-10-2024,Hitech City,Mutton,Non Veg,1,350,350,Cash,5,Balaji Hotel
+43,41160,ID8963,26-05-2022,Kokapet,Mutton,Non Veg,2,350,700,Google Pay,1,Tandoor Hut
+44,20246,ID5416,24-04-2024,Madhapur,Poha,Veg,5,70,350,Cash,4,Adhya Grand
+45,4568,ID4646,29-10-2020,Narsingi,Chicken,Non Veg,8,250,2000,Google Pay,2,New Punjabi Hotel
+46,42471,ID2944,12-12-2024,Gachibowli,Chicken,Non Veg,7,250,1750,Phone Pay,3,Hotel CVR
+47,3636,ID6955,21-12-2023,Gachibowli,Poha,Veg,1,70,70,Cash,5,Kaveri Restaurant
+48,27752,ID4629,20-04-2022,Madhapur,Dosa,Veg,10,60,600,Google Pay,2,Adhya Grand
+49,42577,ID1110,14-07-2021,Kokapet,Poha,Veg,1,70,70,Cash,1,Hotel CVR
+50,8249,ID6741,10-09-2022,Kokapet,Dosa,Veg,4,60,240,Google Pay,5,Tandoor Hut
