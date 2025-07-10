@@ -1,5 +1,5 @@
 
-# Swiggy Orders – MySQL Assignment
+# Swiggy Orders – SQL Assignment
 
 This assignment practices SQL queries on a dataset of Swiggy food orders. It applies core MySQL concepts to extract useful information from real‑world‑style data.
 
