@@ -1,0 +1,14 @@
+EMPID,Name,Team,Salary,DOJ,Sal_Grades,City,Manager
+123,DOUG,Analytics,45905,2011-01-21,A,HYD,Larry
+124,DAVE,Analytics,50329,2001-09-21,A,HYD,DOUG
+125,Larry,Analytics,50329,2009-03-01,B,HYD,Brian
+126,ROB,Finance,38251,2006-08-24,B,NYC,Morgan
+127,Brian,Analytics,11845,2007-04-29,B,NYC,ROB
+128,Morgan,Analytics,27972,2008-05-04,C,NYC,Morgan
+129,Kajal,Finance,13232,2006-08-24,D,MNL,Mala
+130,Richa,Reporting,71204,2007-04-29,D,MNL,Mala
+131,Mala,Reporting,20752,2008-05-04,D,MNL,Ram
+132,Ram,Reporting,20752,2009-03-01,C,SG,Aalam
+133,Parvati,HR,52382,2009-12-29,C,SG,Parvati
+134,Aalam,Reporting,35908,2011-01-21,A,SG,Parvati
+135,Reeta,HR,35908,2012-02-09,B,SG,Aalam
