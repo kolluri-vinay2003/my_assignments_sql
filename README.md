@@ -1,2 +1,2 @@
 # my_assignments_sql
-SQL assignment solutions for data analysis practice.
+Practical SQL assignment solutions to strengthen query writing, data handling, and business logic skills.
